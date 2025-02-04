@@ -11,22 +11,21 @@ This project is a **Conversational Retrieval-Augmented Generation (RAG) system**
 
 ## 🛠️ Installation  
 
-1. **Clone the repository**  
-   ```bash
+1. **Clone the repository**
    git clone https://github.com/yourusername/conversational-rag-groq.git
    cd conversational-rag-groq
 
-2. Create a virtual environment & install dependencies
-     python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
-pip install -r requirements.txt
+3. Create a virtual environment & install dependencies
+   python -m venv venv
+   source venv/bin/activate  # On Windows use: venv\Scripts\activate
+   pip install -r requirements.txt
 
 
-3. Set up environment variables
+4. Set up environment variables
    Create a .env file and add your API keys:
    HF_TOKEN=your_huggingface_token
 
-4. Run the Streamlit app
+5. Run the Streamlit app
    streamlit run app.py
 
 🎯 How It Works
