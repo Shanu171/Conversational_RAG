@@ -3,7 +3,7 @@
 This project is a **Conversational Retrieval-Augmented Generation (RAG) system** that enables users to **upload PDFs and chat with their content**, powered by the **DeepSeek-R1** model via the **Groq API**. The system also **maintains chat history** for a seamless user experience.  
 
 ## 🚀 Features  
-✅ **DeepSeek-R1 & Gemma2-9B-IT** model selection  
+✅ **Deepseek-r1-distill-llama-70b & Gemma2-9B-IT** model selection  
 ✅ **Groq API-powered** for fast & efficient inference  
 ✅ **PDF upload support** for document-based Q&A  
 ✅ **Context-aware chat responses** with memory  
