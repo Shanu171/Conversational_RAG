@@ -18,8 +18,9 @@ This project is a **Conversational Retrieval-Augmented Generation (RAG) system**
 
 2. Create a virtual environment & install dependencies
      python -m venv venv
-     source venv/bin/activate  # On Windows use: venv\Scripts\activate
-     pip install -r requirements.txt
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+pip install -r requirements.txt
+
 
 3. Set up environment variables
    Create a .env file and add your API keys:
